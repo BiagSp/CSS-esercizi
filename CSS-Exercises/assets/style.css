@@ -1,0 +1,22 @@
+:root{
+    --background:#011212;
+    --background-color:#ff8800;
+    --border-radius:25px;
+    --display: flex ;        
+}
+
+
+
+
+
+body {
+    background-color: var(--background);
+}
+
+.ball {
+   
+    width: 100px;
+    height: 100px;
+    background-color: var(--background-color);
+    border-radius: calc(var(--border-radius)*2);
+}
