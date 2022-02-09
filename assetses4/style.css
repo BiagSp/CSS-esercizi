@@ -58,36 +58,7 @@ body{
     border: 0;
 }
 
-.one{
-    grid-area: one;
-}
-.two{
-    grid-area: one;
-}
-.three{
-    grid-area: one;
-}
-.four{
-    grid-area: one;
-}
-.five{
-    grid-area: one;
-}
-.six{
-    grid-area: one;
-}
-.seven{
-    grid-area: one;
-}
-.eight{
-    grid-area: one;
-}
-.nine{
-    grid-area: one;
-}
-.zero{
-    grid-area: one;
-}
+
 
 .decimal{
     grid-area: decimal;
